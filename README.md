@@ -26,3 +26,7 @@ Clone o repositório e execute os scripts em um ambiente Python. Por exemplo:
 git clone https://github.com/seu-usuario/desafio-estagio-ribeirao-preto.git
 cd desafio-estagio-ribeirao-preto
 python fibonacci.py
+python conta_a.py
+python resultado_codigo.py
+python sequencias.py
+
